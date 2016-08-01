@@ -1,6 +1,16 @@
-*/config/development
 */logs/log-*.php
 !*/logs/index.html
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
+.htaccess
+.idea/.name
+CodeIgniter-3.1.0.zip
+Documentation/
+composer.json
+composer.lock
+contributing.md
+index.php
+license.txt
+readme.rst
+user_guide/
